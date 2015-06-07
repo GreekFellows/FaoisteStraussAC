@@ -1,0 +1,76 @@
+1 Game design
+
+	1.1 General rules
+	
+		An area (biologically speaking, biome) is made up of blocks.
+		An area is associated with a set of environmental conditions, including
+		
+			- temperature
+			- humidity (water concentration)
+			- weather conditions
+			
+				= precipitation
+				= wind speed
+				
+			- ...
+			
+		Also, an area is associated with a set of environmental parameters,
+		which might not necessarily affect the organisms in the ecosystem by themselves,
+		but instead affect the environmental conditions. These include:
+		
+			- altitude
+			- ...
+			
+		These environmental conditions / parameters fluctuate slightly across blocks.
+		
+		Weathers change by chance; a random value is chosen regularly.
+		If this value fits some particular conditions, a corresponding weather is triggered.
+		These conditions vary across areas, e.g. an arid desert has a lower chance of raining than a tropical forest.
+		
+		A block is composed of layers (biologically speakinh, substrata).
+		Each layer has a specific composition (again, with some fluctuations) of substances including
+		
+			- water
+			- nutrients
+			- minerals
+			- ...
+			
+		Layers include:
+		
+			- freshwater
+			- saltwater
+			- dirt layer
+			- sand
+			- rock
+			- mineral
+			- humus
+			- smart ass
+			- ...
+
+	1.2 Gamemodes
+		
+		There are 2 gamemodes: scenario and creative.
+		
+		1.2.1 Scenario
+		
+			In a scenario, the initial ecosystem is pre-determined.
+			The ecosystem can be special, e.g.
+				
+				- maritime
+				- polar
+				- extremely deserted
+				- designed
+				- ...
+			
+			Each scenario has an objective. This can take the form of
+			
+				- preventing a particular species from going extinct in a given period of time.
+				- establishing an ecological balance in a given period of time:
+				
+					= preventing all species from going extinct
+					= preventing all resources from total deprivation
+					
+				- wiping a particular species out (e.g. "Kill the Jooboo")
+				- ...
+		
+		1.2.2 Creative
